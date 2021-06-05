@@ -6,6 +6,7 @@ Entrega 02 - Gestor Médico
 
 - Gleidison Novais dos Santos GRR20186250
 - Guilherme Vinicius Valério GRR20184636
+- Gustavo de Oliveira Achinitz GRR20184614
 
 ## Intruções
 
